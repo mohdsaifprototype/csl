@@ -1,0 +1,45 @@
+.outer{	
+	margin-left:100px;
+	margin-right:100px;
+	width:80%;
+	border:1px solid #ff42a4;
+	margin:auto;	
+}
+
+img{
+	width:100%;
+}
+
+h1{
+	background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
+	text-align:center;
+	font-size:50px;
+}
+
+.content{
+	margin:10px;
+}
+
+h2,li{
+	color:black;	
+	/*padding-left:10px;*/
+}
+
+h2{
+	font-size:40px;
+}
+.blog p{
+	color:blue;
+	margin-left:10px;
+	width:100%;
+	font-size:20px;
+	
+}
+
+.size{
+	font-size:30px;
+}
+
+ul{
+	margin-right:10px;
+}

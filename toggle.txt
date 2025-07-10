@@ -1,0 +1,47 @@
+ $(document).ready(function(){
+$(".toggle1").hide();
+	$(".toggle2").hide();
+    $(".toggle3").hide();
+    $(".toggle4").hide();
+    $(".toggle5").hide();
+	$(".call1").click(function(){
+    $(".toggle2").hide();
+    $(".toggle3").hide();
+    $(".toggle4").hide();
+    $(".toggle5").hide();
+    $(".toggle1").show();
+    });
+	
+	$(".call2").click(function(){
+    $(".toggle1").hide();
+    $(".toggle3").hide();
+    $(".toggle4").hide();
+    $(".toggle5").hide();
+    $(".toggle2").show();
+    });
+	
+	$(".call3").click(function(){
+    $(".toggle1").hide();
+    $(".toggle2").hide();
+    $(".toggle4").hide();
+    $(".toggle5").hide();
+    $(".toggle3").show();
+    });
+	
+	$(".call4").click(function(){
+    $(".toggle2").hide();
+    $(".toggle3").hide();
+    $(".toggle1").hide();
+    $(".toggle5").hide();
+    $(".toggle4").show();
+    });
+  
+  
+  $(".call5").click(function(){
+    $(".toggle1").hide();
+    $(".toggle2").hide();
+    $(".toggle3").hide();
+    $(".toggle4").hide();
+    $(".toggle5").show();
+    });	 
+});

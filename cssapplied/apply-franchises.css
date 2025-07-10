@@ -1,0 +1,194 @@
+.register{
+    background-image: linear-gradient(to right, #ff42a4, #ff42a4);
+    margin-top: 3%;
+    padding: 3%;
+}
+
+.register-left{
+    text-align: center;
+    color: #fff;
+    margin-top: 4%;
+}
+
+.register-right{
+    background: white;
+    border-top-left-radius: 10% 50%;
+    border-bottom-left-radius: 10% 50%;	
+}
+
+.register-left img{
+    margin-top: 15%;
+    margin-bottom: 5%;
+    width: 25%;
+    animation: mover 1s infinite  alternate;
+}
+
+@keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-20px); }
+}
+
+.container form {
+  background-color: white;
+  color: #888888;
+  text-align: left;
+  padding-top: 20px;
+}
+
+.container label {
+  display: none;
+}
+
+.container input, .container textarea, .container select{
+  /* to create space for placing icon*/
+  padding-left: 32px;
+  border-color: transparent;
+  background-color: #ff42a4;
+  border-radius: 10px;
+  color:white;
+}
+
+
+.container .btn-default {
+  margin-top: 5px;
+  margin-bottom: 30px;
+  padding: 15px 36px;
+  background-color: #ff42a4;
+  border-radius: 0px;
+  border: 0px;
+  color: #F1F1F1;
+}
+
+.container .btn-default:hover,
+.container .btn-default:focus {
+  background-color: #049DDF;
+  color: #F1F1F1;
+  border-color: transparent;
+  outline: 0px auto -webkit-focus-ring-color;
+}
+
+/*position should be relative and z-index greater than one*/
+.container .icon {
+  position: relative;
+  float: left;
+  margin-left: 8px;
+  margin-top: -24px;
+  z-index: 2;
+  color: #222222;
+}
+
+.container .icon-textarea {
+  float: left;
+  margin-left: 8px;
+  margin-top: -104px;
+  position: relative;
+  z-index: 2;
+  color: #222222;
+}
+
+form{
+	margin:10px 80px 70px 120px;
+	background-color:white;
+	
+}
+input[type="email"]::placeholder { 
+    color: white;
+}
+input[type="text"]::placeholder { 
+    color: white;
+}
+.container textarea::placeholder{
+	color:white;
+}
+
+h2{
+	text-align:center;
+	padding:10px;
+}
+
+h3{
+	animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  border:1px solid blue;
+  border-radius:5px;
+  padding:20px;
+}
+
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: green;}
+}
+
+.container select{
+	max-height:30px;
+}
+
+select option:first-child { color:red; }
+
+          
+        /* Media Query for Tablets Ipads portrait mode */
+        @media (min-width: 480px) and (max-width: 991px){
+            #logo{
+				width:170px;
+			}
+			#logo1{
+				width:145px;
+				margin-left: 240px;
+			}
+			form{
+				padding-bottom: 75px;
+			}
+			
+			.register-left{
+				margin-top: -90px;
+			}
+			   .btn{
+				width: 100%;
+			    }
+			}
+			
+			@media (min-width: 992px) and (max-width: 1024px){
+            #logo{
+				width:170px;
+			}
+			#logo1{
+				width:145px;
+				
+			}
+			
+			   .btn{
+				width: 100%;
+			    }
+			}
+			
+        
+          
+        /* Media Query for Laptops and Desktops */
+        @media (min-width: 1025px) and (max-width: 1280px){
+            #logo{
+				width:200px;
+			}
+			#logo1{
+				width:200px;
+				
+			}
+			.btn{
+				width: 100%;
+			    }
+			
+        }
+          
+        /* Media Query for Large screens */
+        @media (min-width: 1281px) {
+            #logo{
+				width:200px;
+			}
+			#logo1{
+				width:200px;
+			}
+			.btn{
+				width: 100%;
+			    }
+			
+        }

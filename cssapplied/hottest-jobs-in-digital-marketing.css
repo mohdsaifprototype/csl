@@ -1,0 +1,152 @@
+.outer{	
+	margin-left:100px;
+	margin-right:100px;
+	width:80%;
+	border:1px solid #ff42a4;
+	margin:auto;	
+}
+
+img{
+	width:100%;
+	height:auto;
+}
+
+h1{
+	background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
+	text-align:center;
+	font-size:50px;
+}
+
+h2{	
+	font-size:40px;
+}
+
+h3{
+	font-size:30px;
+}
+
+.content{
+	margin:10px;
+}
+
+h2,li{
+	color:black;	
+	/*padding-left:10px;*/
+}
+
+p{
+	color:blue;
+	margin-left:10px;
+	width:100%;
+	font-size:20px;
+}
+
+.inner{
+	width:92%;
+	color:blue;
+	font-size:20px;
+}
+
+.innerimg{	
+	width:100%;
+	height:60%;
+	margin:10px;
+}
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  .innerimg{
+	  width:fit-content;
+	height:fit-content;
+	margin:10px;
+	margin-left: 275px;
+  }
+  
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  .innerimg{
+	  width:fit-content;
+	height:fit-content;
+	margin:10px;
+	margin-left: 250px;
+  }
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  .innerimg{
+	  width:fit-content;
+	height:fit-content;
+	margin:10px;
+	margin-left: 135px;
+  }
+  
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .innerimg{
+  width:fit-content;
+	height:fit-content;
+	margin:10px;
+	margin-left: 130px;
+  }
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  .innerimg{
+    width:fit-content;
+	height:fit-content;
+	margin:10px;
+	
+  }
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media and (min-width:320px) and (max-width: 480px) {
+  .innerimg{
+    width:fit-content;
+	height:fit-content;
+	margin:10px;
+	
+  }
+  #headerimg{
+	  height:auto;
+  }
+}

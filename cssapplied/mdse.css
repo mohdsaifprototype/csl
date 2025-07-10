@@ -1,0 +1,154 @@
+
+.mainpage{
+	margin-left:100px:
+	margin-right:100px;
+	width:80%;
+	border:1px solid #ff42a4;
+	margin:auto;
+}
+.content{
+	margin-top:5px;
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:5px;
+}
+h1{
+	background: linear-gradient(to right, #e91e63 0%, #051a3e 100%);
+	text-align:center;
+	font-size:40px;
+	width:100%;
+	margin-top:20px;
+	color:white;
+	font-weight:bold;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+h2{
+	color:white;
+	font-size:30px;	
+	margin-top: 20px;
+    margin-bottom: 20px;
+	font-weight:bold;
+	background:#185895;/*change*/
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:10px;
+	border:1px solid black;
+	border-radius: 25px;
+	text-align:center;	
+}
+
+h3{
+	font-size:22px;
+	font-weight:bold;
+	color:blue;
+	font-size:25px;
+}
+.olist{
+	font-weight:bold;
+font-size:20px;
+color:black;	
+}
+li{
+	font-size:20px;	
+}
+p{
+	font-size:20px;
+	margin-left:10px;
+	margin-right:10px;
+	color:black;
+}
+@media only screen and (max-width: 480px) {
+  h1{
+	  font-size:30px;
+	  padding-top:5px;
+	padding-bottom:5px;
+  }
+  h2,h3{
+	  font-size:20px;
+  }  
+
+p, .olist, div .more, ul li{
+	font-size:15px;
+	color:black;
+}
+.panel-title a{
+	      font-size:15px;	
+           }
+}
+a {
+	color: #0254EB
+}
+a:visited {
+	color: #0254EB
+}
+a.morelink {
+	text-decoration:none;
+	outline: none;
+}
+.morecontent span {
+	display: none;
+}
+
+.border{                              /*change*/
+	font-size:20px;
+	border:1px solid green;
+	padding:10px;
+	border-radius:5px;
+	color:black;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.panel-default > .panel-heading {
+		padding: 0;	
+		
+	}
+.panel-title {		
+		color:white;
+		font-size:18px;
+        background-color: #ff42a4;/*change*/
+	    font-weight:bold;
+	}
+.panel-title:hover{
+		background-color:#185895; /*change*/
+        color:white;
+	}
+	
+	.panel-heading a[aria-expanded="true"] {/*change*/
+    background-color:#185895; 
+	color:white;
+}
+	
+.panel-title > a {
+		display: block;
+		padding: 15px;
+		text-decoration: none;	
+		
+	}
+.more-less {
+		float: right;
+		color: white;
+	}
+
+.panel{
+		border:1px solid green;
+	}
+	
+	.listtype{
+		list-style-type: upper-alpha;
+		font-weight:normal;
+		color:black;
+	}
+	
+.level1{
+	font-size:20px;
+    color:black;
+	float:left;
+    font-weight:bold;	
+}
+.level2{
+	font-size:20px;
+	float:right;
+	color:black;
+	font-weight:bold;
+}

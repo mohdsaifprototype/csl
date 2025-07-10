@@ -1,0 +1,87 @@
+.tab {
+    overflow: hidden;
+    border: 1px solid green;
+    background-color: #f1f1f1;
+}
+
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    color: black;
+    font-weight: bold;
+}
+
+
+.tab button:hover {
+    background-color: #009966;
+}
+
+
+.tab button.active {
+    background-color: #009966;
+}
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid green;
+    
+}
+
+.dropbtn {
+    letter-spacing: 0.5px;
+    padding: 0 6px;
+    font-weight: 600;
+    margin: 0 0.5em;
+    text-transform: uppercase;
+}
+
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-content {
+   width: 220px;
+    display: none;
+    position: absolute;
+    top: 18px;
+    padding: 10px;
+    background: #fff;
+    z-index: 999;
+    border: 1px solid #ddd;
+
+}
+
+
+.dropdown-content a {
+    color: #333;
+    padding: 10px 10px;
+    display: block;
+    font-size: 12px;
+}
+
+.dropdown:hover .dropdown-content
+{
+    display: block;
+}
+
+.dropdown-content a:hover
+{
+    background: #f8f9fa;
+}
+.dropbtn:hover
+{
+    color: #fc636b;
+}
+
+
+

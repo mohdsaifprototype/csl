@@ -1,0 +1,10 @@
+         <div class="row py-5 gap">
+            <div class="col-xs-3 col-sm-3 col-md-3">
+              <div class="image-pop">
+		        <img src="images\gallery\test\5.jpg" width="100%">
+		          <span class="large">
+                    <img src="images\gallery\test\5.jpg" width="100%" class="large-image" alt="adventure" >
+                  </span>
+              </div>							
+            </div>  
+         </div>
