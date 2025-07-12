@@ -259,7 +259,7 @@
 								</li>
 
 								<li class="nav-item ">
-									<a class="nav-link" href="http://nic.dtse.co.in/">scholarship</a>
+									<a class="nav-link" href="coming-soon.php">scholarship</a>
 								</li>
 
 								<li class="nav-item">
