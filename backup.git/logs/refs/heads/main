@@ -1,9 +1,0 @@
-0000000000000000000000000000000000000000 13a68253374ccc35306d5d5401a85a975cc0efba sahilsuleman <newonebot1@gmail.com> 1689844961 +0530	commit (initial): first commit
-13a68253374ccc35306d5d5401a85a975cc0efba 13a68253374ccc35306d5d5401a85a975cc0efba sahilsuleman <newonebot1@gmail.com> 1689846554 +0530	Branch: renamed refs/heads/master to refs/heads/main
-13a68253374ccc35306d5d5401a85a975cc0efba 9194f6b45ec9037fe4ae81ca0bd4d6610ae1aae7 sahilsuleman <newonebot1@gmail.com> 1689846987 +0530	pull --rebase origin main (finish): refs/heads/main onto e72ca806c609d951fcf9d1d48c51d2e53b9be3fc
-9194f6b45ec9037fe4ae81ca0bd4d6610ae1aae7 78167dfbef970d3877659012e3f89046ee968b15 Mohd Saif <mohdsaifsiddique.feaindia@gmail.com> 1751964863 +0530	commit: v 1
-78167dfbef970d3877659012e3f89046ee968b15 432d677e55061e72524d394e74c97440f35ca3b3 Mohd Saif <mohdsaifsiddique.feaindia@gmail.com> 1752127584 +0530	commit: v1.1 Changed GDF Skills to CSL
-432d677e55061e72524d394e74c97440f35ca3b3 d5dad4114513b8e008648560693b7e7f1d7b4e04 Mohd Saif <mohdsaifsiddique.feaindia@gmail.com> 1752130270 +0530	commit: Renamed everything from GDF to CSL
-d5dad4114513b8e008648560693b7e7f1d7b4e04 c9151a609880ad14400bfda656772427372afb47 Mohd Saif <mohdsaifsiddique.feaindia@gmail.com> 1752131330 +0530	commit: Phone and email updated everywhere
-c9151a609880ad14400bfda656772427372afb47 9c3715b3218fd6d71f1cff7042ef7e274c99394d Mohd Saif <mohdsaifsiddique.feaindia@gmail.com> 1752132290 +0530	commit: updated some details and hid some elements
-9c3715b3218fd6d71f1cff7042ef7e274c99394d 6f446a6002927f22760192de590823f06af96bc1 Mohd Saif <mohdsaifsiddique.feaindia@gmail.com> 1752150823 +0530	commit: removed setting.json file
