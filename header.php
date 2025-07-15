@@ -22,9 +22,9 @@
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<!-- Bootstrap CSS -->
-	<link rel="stylesheet" href="CSS/bootstrap.min.css">
-	<link rel="stylesheet" href="CSS/owl.carousel.min.css">
-	<link rel="stylesheet" href="CSS/jquery.smartmenus.bootstrap-4.css">
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="/css/jquery.smartmenus.bootstrap-4.css">
 	<link rel="stylesheet" href="CSLskilll.css">
 	<link rel="icon" href="img/icon.png" type="image/x-icon">
 </head>
