@@ -64,9 +64,9 @@
 								class="fab fa-twitter"></i></a>
 						<a href="https://www.linkedin.com/company/CSL-skills/" target="_blank" class="linkedin"><i
 								class="fab fa-linkedin-in"></i></a>
-						<a href="https://www.youtube.com/embed/rrjEPUJxwoQ" target="_blank" class="youtube"><i
+						<a href="#" target="_blank" class="youtube"><i
 								class="fab fa-youtube"></i></a>
-						<a href="https://www.instagram.com/CSLskills/" target="_blank" class="instagram"><i
+						<a href="#" target="_blank" class="instagram"><i
 								class="fab fa-instagram"></i></a>
 
 					</div>
@@ -79,7 +79,7 @@
 
 						<div class="rightContent">
 							<h5>Email us on</h5>
-							<h6><a href="mailto: mail@CSLskills.com" target="new">centreforskilllearning9@gmail.com</a></h6>
+							<h6><a href="mailto: cslindia.gov@gmail.com" target="new">cslindia.gov@gmail.com</a></h6>
 						</div>
 
 					</div>
