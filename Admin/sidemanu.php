@@ -1,7 +1,7 @@
 <div class="col-md-2 side-manu bg-white border sticky-top p-0" style="height:100vh;">
     <div class="w-100 d-flex justify-content-center px-3 py-3">
         <img src="images/CSL_logo.png" class="h-75 w-100" alt="">
-        <!-- <img src="img/csl_logo.jpg" class="h-75 w-100" alt=""> -->
+        <!-- <img src="img/csl_logo.png" class="h-75 w-100" alt=""> -->
     </div>
     <nav class="navbar w-100">
         <ul class="navbar-nav w-100">

@@ -46,7 +46,7 @@
 
 						<a href="index.php">
 							<!-- <img src="img/CSL_logo.png" height="80px" width="80%"> -->
-							<img src="img/csl_logo.jpg" height="116px" width="auto" alt="CSL Logo" />
+							<img src="img/csl_logo.png" height="116px" width="auto" alt="CSL Logo" />
 						</a>
 
 					</div>
@@ -340,7 +340,7 @@
 					<div class="col-12">
 						<!-- <img src="img/CSL_logo.png"
 							style="height: 100px; width:auto; padding: 15px; position: absolute;"> -->
-						<img src="img/csl_logo.jpg"
+						<img src="img/csl_logo.png"
 							style="height: 100px; width:auto; padding: 15px; position: absolute;">
 						<h2 onClick="window.location.reload();"
 							style="text-align:right; line-height: 100px; margin-right: 100px; cursor: pointer;;"><i

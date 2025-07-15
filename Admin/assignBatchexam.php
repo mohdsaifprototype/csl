@@ -27,7 +27,7 @@ if (isset($_POST['submit'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <!-- <link rel="icon" href="images/CSL_logo.png" type="image/x-icon"> -->
-    <link rel="icon" href="img/csl_logo.jpg" type="image/x-icon">
+    <link rel="icon" href="img/csl_logo.png" type="image/x-icon">
 </head>
 <style>
     body::-webkit-scrollbar {
