@@ -504,8 +504,8 @@
 	integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
 	crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-<script src="CSS/CSL_min.js"></script>
-<script src="CSS/CSL_boot.js"></script>
+<script src="/css/CSL_min.js"></script>
+<script src="/css/CSL_boot.js"></script>
 
 <script>
 	$("#mynum").keypress(function() {
