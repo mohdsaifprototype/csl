@@ -56,8 +56,10 @@
 
                             <li><a href="CSL_about.php">CSL About</a></li>
                             <li><a href=" about.php">CSL Success Story</a></li>
-                            <li><a href="dm.php">Director Message</a></li>
-                            <li><a href="md.php"> M.D Message</a></li>
+                            <!-- <li><a href="dm.php">Director Message</a></li> -->
+                            <!-- <li><a href="md.php"> M.D Message</a></li> -->
+                            <li><a href="#">Director Message</a></li>
+                            <li><a href="#"> M.D Message</a></li>
                             <li><a href="mvg.php">Mission & Vision of CSL</a></li>
                         </ul>
                     </div>
@@ -65,9 +67,11 @@
                         <h6 class="text-uppercase font-weight-bold mb-4">Other Links</h6>
                         <ul id="foot_fit">
                             <li><a href="contant.php">Contants</a></li>
-                            <li><a href="gallery.php">Gallery</a></li>
+                            <!-- <li><a href="gallery.php">Gallery</a></li> -->
+                            <li><a href="#">Gallery</a></li>
                             <li><a href="franchise.php">Franchise</a></li>
-                            <li><a href="our_organization.php">Our Organization</a></li>
+                            <!-- <li><a href="our_organization.php">Our Organization</a></li> -->
+                            <li><a href="#">Our Organization</a></li>
                             <li><a href="feed_back_form.php">Feed back form</a></li>
                             <li><a href="blogs.php">Blogs</a></li>
                         </ul>
@@ -76,21 +80,24 @@
                         <h6 class="text-uppercase font-weight-bold mb-4">Placement</h6>
                         <ul class="list-unstyled mb-0" id="foot_fit">
 
-                            <li><a href="http://indiasbestjobs.com/">Placement .com</a></li>
+                            <!-- <li><a href="http://indiasbestjobs.com/">Placement .com</a></li> -->
+                            <li><a href="#">Placement.com</a></li>
                             <li><a href="pst.php">Placement Student List</a></li>
                             <li><a href="company_tie_up.php">Company Tie Up</a></li>
                             <li><a href="#">Employer Login</a></li>
-                            <li><a href="http://indiasbestjobs.com/admin/login/?next=/admin/">Institute Login</a></li>
-                            <li><a href="http://indiasbestjobs.com/login/">Student Login</a></li>
+                            <!-- <li><a href="http://indiasbestjobs.com/admin/login/?next=/admin/">Institute Login</a></li>
+                            <li><a href="http://indiasbestjobs.com/login/">Student Login</a></li> -->
+                            <li><a href="#">Institute Login</a></li>
+                            <li><a href="#">Student Login</a></li>
                         </ul>
 
                     </div>
                     <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
                         <h6 class="text-uppercase font-weight-bold mb-4">Franchise</h6>
                         <ul class="list-unstyled mb-0" id="foot_fit">
-                            <li><a href="franchise.php">THE CSLSKILLS ADVANTAGE</a></li>
-                            <li><a href="franchise.php">FRANCHISE SUPPORT & ADPROCESS</a></li>
-                            <li><a href="franchise.php">APPLY FOR FRANCHISE</a></li>
+                            <!-- <li><a href="franchise.php">THE CSLSKILLS ADVANTAGE</a></li> -->
+                            <!-- <li><a href="franchise.php">FRANCHISE SUPPORT & ADPROCESS</a></li> -->
+                            <!-- <li><a href="franchise.php">APPLY FOR FRANCHISE</a></li> -->
                         </ul>
                     </div>
                     <div class="col-lg-4 col-md-6 mb-lg-0">
